@@ -19,7 +19,7 @@ dgllife==0.3.2
 
 ## Dataset
 
-The PDBbind dataset can be downloaded[here](http://pdbbind-cn.org/). The CSAR-HiQ dataset can be downloaded [here](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/drug_target_interaction/sign).
+The PDBbind dataset can be downloaded [here](http://pdbbind-cn.org/). The CSAR-HiQ dataset can be downloaded [here](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/drug_target_interaction/sign).
 
 ```preprocess
 python preprocess.py
